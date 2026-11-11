@@ -1,0 +1,22 @@
+# dependensi & cache
+node_modules/
+.expo/
+.expo-shared/
+web-build/
+dist/
+*.log
+npm-debug.*
+
+# sistem / editor
+.DS_Store
+.vscode/
+.idea/
+
+# rahasia
+.env
+.env.*
+
+# aset karakter berhak cipta: jangan ikut ke repo publik
+assets/characters/*.png
+assets/characters/*.jpg
+assets/characters/*.webp

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Math Literacy P3R",
+    "slug": "math-literacy-p3r",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#020C1B"
+  }
+}
